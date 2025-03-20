@@ -11,7 +11,7 @@
     <vendor email="support@yourcompany.com" url="https://www.yourcompany.com">YourCompany</vendor>
     <!-- 註冊快捷鍵觸發的 action -->
     <actions>
-        <action id="ShowErrorDescription" class="ShowErrorDescriptionAction" text="Show Error Description">
+        <action id="ShowErrorDescription" class="ShowErrorDescriptionAction" text="Show Error Descriptio111111n">
             <keyboard-shortcut first-keystroke="ctrl shift E" />
         </action>
     </actions>
